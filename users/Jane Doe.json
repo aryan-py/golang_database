@@ -1,0 +1,12 @@
+{
+	"Name": "Jane Doe",
+	"Age": 26,
+	"Contact": "0987654321",
+	"Country": "Google",
+	"Address": {
+		"City": "Mumbai",
+		"State": "Maharashtra",
+		"Country": "India",
+		"Pincode": 400001
+	}
+}

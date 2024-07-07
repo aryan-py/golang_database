@@ -1,0 +1,12 @@
+{
+	"Name": "John Doe",
+	"Age": 25,
+	"Contact": "1234567890",
+	"Country": "Myrl Technology",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 560001
+	}
+}

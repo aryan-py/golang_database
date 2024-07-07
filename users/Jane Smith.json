@@ -1,0 +1,12 @@
+{
+	"Name": "Jane Smith",
+	"Age": 28,
+	"Contact": "0987612345",
+	"Country": "Facebook",
+	"Address": {
+		"City": "San Francisco",
+		"State": "California",
+		"Country": "USA",
+		"Pincode": 94016
+	}
+}

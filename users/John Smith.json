@@ -1,0 +1,12 @@
+{
+	"Name": "John Smith",
+	"Age": 27,
+	"Contact": "1234509876",
+	"Country": "Microsoft",
+	"Address": {
+		"City": "Los Angeles",
+		"State": "California",
+		"Country": "USA",
+		"Pincode": 90001
+	}
+}
